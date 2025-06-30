@@ -1,0 +1,2 @@
+# DEA-RNN-A-Hybrid-Deep-Learning-Approach-for-Cyberbullying-Detection-in-Twitter-Social-Media-Platform
+Worked on a project titled "DEA-RNN: Cyberbullying Detection on Twitter" using a hybrid model combining Elman RNN and Dolphin Echolocation Algorithm. The model accurately classified tweets and outperformed traditional classifiers like SVM and Naive Bayes. This project enhanced my skills in NLP, deep learning, and real-time text analysis.
