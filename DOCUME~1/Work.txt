@@ -1,0 +1,32 @@
+Service Provider
+
+Login,
+Train & Test Tweet DataSets, 
+View Tweet Datasets Trained and Tested Accuracy in Bar Chart, 
+View Tweet Datasets Trained and Tested Accuracy Results,
+View Predicted Cyber bullying Detection Type, 
+Find Cyber bullying Detection Type Ratio, 
+Download Predicted Data Sets, 
+View Cyber bullying Detection Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT CYBERBULLYING TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Tweet_Message,
+Prediction.
+
+
+
+
+
+
+
