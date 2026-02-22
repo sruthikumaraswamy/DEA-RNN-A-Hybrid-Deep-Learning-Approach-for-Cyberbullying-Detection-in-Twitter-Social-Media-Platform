@@ -1,3 +1,3 @@
 # DEA-RNN-A-Hybrid-Deep-Learning-Approach-for-Cyberbullying-Detection-in-Twitter-Social-Media-Platform
-This project is referred to as "AI Content Moderation System using NLP & Deep Learning" in my resume.
+This project is referred to as "AI-Based Cyberbullying Detection System using NLP & Deep Learning" in my resume.
 Worked on a project titled "DEA-RNN: Cyberbullying Detection on Twitter" using a hybrid model combining Elman RNN and Dolphin Echolocation Algorithm. The model accurately classified tweets and outperformed traditional classifiers like SVM and Naive Bayes. This project enhanced my skills in NLP, deep learning, and real-time text analysis.
